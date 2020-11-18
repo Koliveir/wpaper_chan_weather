@@ -1,6 +1,3 @@
-30
-dom 15 nov 2020 19:34:08 -03
-gsettings set org.gnome.desktop.background picture-uri file:///home/erick/Projects/shell_script/wpaper_chan_weather/imagens/muito_quente.jpg
-27
-dom 15 nov 2020 21:21:22 -03
-gsettings set org.gnome.desktop.background picture-uri file:///home/erick/Projects/shell_script/wpaper_chan_weather/imagens/quente.jpg
+20
+ter 17 nov 2020 22:00:02 -03
+gsettings set org.gnome.desktop.background picture-uri file:///home/erick/Projects/shell_script/wpaper_chan_weather/imagens/normal.jpg
